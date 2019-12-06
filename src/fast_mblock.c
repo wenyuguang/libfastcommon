@@ -1,5 +1,3 @@
-//fast_mblock.c
-
 #include <errno.h>
 #include <sys/resource.h>
 #include <pthread.h>

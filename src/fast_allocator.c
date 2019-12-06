@@ -1,5 +1,3 @@
-//fast_allocator.c
-
 #include <errno.h>
 #include <stdlib.h>
 #include <pthread.h>

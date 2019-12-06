@@ -1,14 +1,3 @@
-/**
-* Copyright (C) 2015 Happy Fish / YuQing
-*
-* libfastcommon may be copied only under the terms of the GNU General
-* Public License V3, which may be found in the FastDFS source kit.
-* Please visit the FastDFS Home Page http://www.fastken.com/ for more detail.
-**/
-
-//flat_skiplist.h, support duplicated entries, and support stable sort  :)
-//you should use multi_skiplist with too many duplicated entries
-
 #ifndef _FLAT_SKIPLIST_H
 #define _FLAT_SKIPLIST_H
 

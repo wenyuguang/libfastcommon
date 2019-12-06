@@ -1,13 +1,3 @@
-/**
-* Copyright (C) 2008 Happy Fish / YuQing
-*
-* FastDFS may be copied only under the terms of the GNU General
-* Public License V3, which may be found in the FastDFS source kit.
-* Please visit the FastDFS Home Page http://www.fastken.com/ for more detail.
-**/
-
-//ini_file_reader.c
-
 #include <ctype.h>
 #include <stdlib.h>
 #include <stdio.h>

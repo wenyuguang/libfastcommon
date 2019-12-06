@@ -1,11 +1,3 @@
-/**
-* Copyright (C) 2008 Seapeak.Xu / xvhfeng@gmail.com
-*
-* FastLib may be copied only under the terms of the GNU General
-* Public License V3, which may be found in the FastLib source kit.
-* Please visit the FastLib Home Page http://www.fastken.com/ for more detail.
-**/
-
 #ifndef PTHREAD_POOL_H_
 #define PTHREAD_POOL_H_
 

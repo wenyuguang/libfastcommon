@@ -1,5 +1,3 @@
-//fast_blocked_queue.c
-
 #include <errno.h>
 #include <pthread.h>
 #include <inttypes.h>

@@ -1,12 +1,4 @@
 /**
-* Copyright (C) 2016 Happy Fish / YuQing
-*
-* FastDFS may be copied only under the terms of the GNU General
-* Public License V3, which may be found in the FastDFS source kit.
-* Please visit the FastDFS Home Page http://www.fastken.com/ for more detail.
-**/
-
-/**
   64 bits id generator for multi processes, the generated id format:
   32 bits timestamp + X bits machine id  + Y bits of extra data + Z bits serial number
   such as 12 bits machine id, 0 bits extra data and 20 bits serial number

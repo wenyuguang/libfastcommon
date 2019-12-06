@@ -1,5 +1,3 @@
-//fast_task_queue.c
-
 #include <errno.h>
 #include <sys/resource.h>
 #include <pthread.h>

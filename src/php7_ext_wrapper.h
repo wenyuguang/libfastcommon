@@ -1,7 +1,3 @@
-/* php7 extension wrapper
- * for compatibility, these wrapper functions are designed for old php version.
- */
-
 #ifndef _PHP7_EXT_WRAPPER_H
 #define _PHP7_EXT_WRAPPER_H
 
